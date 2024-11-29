@@ -4,8 +4,6 @@ import Main.GamePanel;
 import Main.KeyHandler;
 import Main.UtilityTool;
 import objects.Opponents;
-
-
 import javax.imageio.ImageIO;
 import javax.swing.*;
 import java.awt.*;
