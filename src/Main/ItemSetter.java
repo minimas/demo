@@ -32,7 +32,7 @@ public class ItemSetter {
 
         gp.obj[6] = new MKey_obj(gp);
         gp.obj[6].worldx = 28 * gp.tileSize;
-        gp.obj[6].worldy = 3 * gp.tileSize;
+        gp.obj[6].worldy = 2 * gp.tileSize;
 
         gp.obj[7] = new Mgate(gp);
         gp.obj[7].worldx = 7 * gp.tileSize;
